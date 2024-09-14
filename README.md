@@ -21,7 +21,10 @@ Lesson 2 (LED):
 
 Lesson 3 (Button):
 
-- ddsdfs
+- Pull down resistor:
+  - large resistor (Ex: 10kΩ) lined up to pull voltage of a pin down to a low amount
+  - prevents short circuits and ensures the circuits only utilize 2 states (HIGH/LOW)
+  - used in this case to detect when a button is NOT being pressed
 
 Shopping cart:
 
