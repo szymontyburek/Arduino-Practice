@@ -5,6 +5,7 @@ Lesson 1 (Blink):
 Lesson 2 (LED):
 
 - Breadboard (purpose, build, etc.)
+  - buses (+/- columns on edges) align vertically while the alphabetical rows align horizontally
 - LED(purpose, build, etc.)
   - has positive and negative leads
   - must be used with a resistor to limit the amount of current flowing through it, or else, kaboom! (jk, or am I????)
@@ -16,3 +17,14 @@ Lesson 2 (LED):
   - unit is called Ohm (usually shortened to Ω the Greek letter Omega)
   - denote the values of resistors in kΩ (1,000 Ω) and MΩ (1,000,000 Ω)
 - used 3 different values of resistor (220Ω, 1kΩ, and 10kΩ)
+  - resistors look the same, except they have different colored stripes
+
+Lesson 3 (Button):
+
+- ddsdfs
+
+Shopping cart:
+
+- short jumper wires / spool of wires and wire strippers and make the short jumper wires yourself
+- plastic pieces for user to press when playing game
+- USB-A extension so PC isn't oriented in an unorthodox manner
