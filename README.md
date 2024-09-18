@@ -31,3 +31,4 @@ Shopping cart:
 - short jumper wires / spool of wires and wire strippers and make the short jumper wires yourself
 - plastic pieces for user to press when playing game
 - USB-A extension so PC isn't oriented in an unorthodox manner
+- larger breadboard
